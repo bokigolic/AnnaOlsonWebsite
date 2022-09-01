@@ -1,7 +1,6 @@
 # Anna Olson - Website
 
-
-This repo houses the assets used to build the Ana Olson website, available at [*this link*](https://bokigolic.github.io/AnnaOlsonWebsite/)
+Available at [*this link*](https://bokigolic.github.io/AnnaOlsonWebsite/)
 
 # Screenshot
 
